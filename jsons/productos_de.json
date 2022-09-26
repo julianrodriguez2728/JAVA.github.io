@@ -1,0 +1,6 @@
+[
+    {"id": 1, "titulo":"the boys Omnibus","precio":2500, "imagen":"../img/theboys1.jpeg"},
+    {"id": 2, "titulo":"The boys 25","precio":4500, "imagen":"../img/theboys2.jpg"},
+    {"id": 3, "titulo":"The boys 63","precio":3500, "imagen":"../img/theboys3.jpg"},
+    {"id": 4, "titulo":"The boys 34","precio":6500, "imagen":"../img/theboys4.jpg"}
+]

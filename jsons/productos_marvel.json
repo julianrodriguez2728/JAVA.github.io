@@ -1,0 +1,6 @@
+[
+    {"id": 1, "titulo":"MS marvel","precio":2500, "imagen":"../img/xmen.jpg"},
+    {"id": 2, "titulo":"The amazing spiderman","precio":4500, "imagen":"../img/ms_marvel.jpg"},
+    {"id": 3, "titulo":"XMEN","precio":1500, "imagen":"../img/the_amazing_spiderman.jpg"},
+    {"id": 4, "titulo":"The avengers","precio":2500, "imagen":"../img/avengers_marvel.jpg"}
+]

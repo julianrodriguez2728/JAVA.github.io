@@ -1,0 +1,6 @@
+[
+    {"id": 1, "titulo":"Battle tendency v2","precio":2500, "imagen":"../img/phantom_blood.jpg"},
+    {"id": 2, "titulo":"Stardust Crusaders v3","precio":4500, "imagen":"../img/stardust_crusaders.jpg"},
+    {"id": 3, "titulo":"Diamond is Unbreakle v4","precio":3500, "imagen":"../img/diamond_is_unbreakble.jpg"},
+    {"id": 4, "titulo":"Golden Wind v5","precio":6500, "imagen":"../img/golden_wind.jpg"}
+]

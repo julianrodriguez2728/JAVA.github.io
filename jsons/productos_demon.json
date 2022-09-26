@@ -1,0 +1,7 @@
+[
+    {"id": 1, "titulo":"Demon slayer 01","precio":2500, "imagen":"../img/demon_slayer01.jpg"},
+    {"id": 2, "titulo":"Demon slayer 02","precio":4500, "imagen":"../img/demon_slayer02.jpg"},
+    {"id": 3, "titulo":"Demon slayer 03","precio":3500, "imagen":"../img/demon_slayer03.jpg"},
+    {"id": 4, "titulo":"Demon slayer 04","precio":6500, "imagen":"../img/demon_slayer04.jpg"},
+    {"id": 5, "titulo":"Demon slayer 04","precio":6500, "imagen":"../img/demon_slayer05.jpg"}
+]

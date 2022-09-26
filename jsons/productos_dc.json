@@ -1,0 +1,9 @@
+
+
+
+[
+    {"id": 1, "titulo":"Superman vs Batman","precio":7500, "imagen":"../img/demon_slayer01.jpg"},
+    {"id": 2, "titulo":"El boton parte 1.","precio":8500, "imagen":"../img/demon_slayer02.jpg"},
+    {"id": 3, "titulo":"Superman","precio":2500, "imagen":"../img/demon_slayer03.jpg"},
+    {"id": 4, "titulo":"Batman tmnt Tortugas Ninjas","precio":1500, "imagen":"../img/demon_slayer04.jpg"}
+]
